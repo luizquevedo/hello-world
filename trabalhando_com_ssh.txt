@@ -1,0 +1,4 @@
+Já este arquivo foi adicionado localmente e será subido no repo remoto. 
+Foi feita uma chave SSH para conectar meu laptop ao ambiente remoto. Para tanto eu não fiz do zero - aprendi o procedimento com os guias oficiais do GitHub, e aprendi o modus operandi com as palestras do programa Python para a Suzano, da escola Dio.me no YouTube. 
+
+Levei cerca de 2,5 horas e agora consigo fazer só. Me sinto confiante para ajudar meus amigos caso necessário.
