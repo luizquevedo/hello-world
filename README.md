@@ -6,6 +6,14 @@ This repo is made so I can practice GitHub Flow. / Este repositório é para pra
 Also, this very text file brings a paragraph about me, which will be copied to My Profile. / Ainda, este arquivo de texto aqui traz um parágrafo sobre mim, que será copiado para Meu Perfil.
 
 2025-03-07
+  
+## Contato
+
+[![LinkedIn Luiz Quevedo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-quevedo/)
+
+[![Discord Luiz Quevedo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@qvedo/) 
+
+[![GitHub Luiz Quevedo (você está aqui!)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizquevedo) 
 
 [Português 🇧🇷](#Português 🇧🇷)
 
@@ -15,21 +23,12 @@ Also, this very text file brings a paragraph about me, which will be copied to M
 
 ----
 
-### Português 🇧🇷
+# Português 🇧🇷
 
-- contato
 - (minhas) Funcionalidades
 - sobre mim
 - tecnologias
 
-  
-## Contato
-
-[![LinkedIn Luiz Quevedo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-quevedo/)
-
-[![Discord Luiz Quevedo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@qvedo/) 
-
-[![GitHub Luiz Quevedo (você está aqui!)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizquevedo) 
 
 ## (minhas) Funcionalidades
 
@@ -57,7 +56,7 @@ Futuramente:
 
 _Docker, Conda, Kubernetes, PySpark, TensorFlow, GitLab, PowerBI/Tableau/Qlik, PostgreSQL, SQL Server, Redis, Mautic/Erxes, SurveyMonkey_
 
-### English 🇬🇧
+# English 🇬🇧
 
 - contact info
 - (my) functionalities 
