@@ -1,10 +1,77 @@
 # hello-world
 
-## About this
+### About this
 This repo is made so I can practice GitHub Flow. / Este repositório é para praticar o fluxo do GitHub.
 
 Also, this very text file brings a paragraph about me, which will be copied to My Profile. / Ainda, este arquivo de texto aqui traz um parágrafo sobre mim, que será copiado para Meu Perfil.
 
-## About me (verbose)
-2025-26-02
-Hi, my name is Luiz Quevedo. I'm a very curious and observant person. I'm in love with chess volleyball, and science. Marketer by formation, I'm very interested in data science. My mission and purpose is to be an oracle. / Olá, meu nome é Luiz Quevedo. Sou uma pessoa muito curiosa e observadora. Amo xadrez, vôlei, e ciência. Marketeiro de formação, sou muito interessado em Ciência de Dados. Minha missão e propósito é ser oráculo.
+2025-03-07
+
+[Português 🇧🇷](#Português 🇧🇷)
+
+[English 🇬🇧](#English 🇬🇧)
+
+[Español 🇨🇴](#Español 🇨🇴)
+
+----
+
+### Português 🇧🇷
+
+- contato
+- (minhas) Funcionalidades
+- sobre mim
+- tecnologias
+
+  
+## Contato
+
+[![LinkedIn Luiz Quevedo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-quevedo/)
+
+[![Discord Luiz Quevedo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@qvedo/) 
+
+[![GitHub Luiz Quevedo (você está aqui!)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizquevedo) 
+
+## (minhas) Funcionalidades
+
+- ciência de dados, inovacao e insights de negócio
+- gestão de marcas, de marketing, e de comunicacao integrada
+- gestão de projeto, ágil, design thinking
+- engenharia de dados, SQL e NoSQL
+- vendas SaaS, comércio, e trade marketing
+
+## Sobre mim
+
+Eu sou um cientista de dados radicado na USP. 
+
+Sou comunicativo, curioso, e _extremamente_ colaborativo.
+
+Foguete não dá ré - _e aí explode com você dentro._
+
+## Tecnologias
+
+Domino hoje: 
+
+_Office 365 + Word + PowerPoint + Google Workspace, Excel VBA, Git/GitHub, SPSS/PASW + AMOS, R, IraMuTeQ, Pandas, NumPy, SciKitLearn, SQLite,Ramper/Apollo, Typeform/Qualtrics_
+
+Futuramente: 
+
+_Docker, Conda, Kubernetes, PySpark, TensorFlow, GitLab, PowerBI/Tableau/Qlik, PostgreSQL, SQL Server, Redis, Mautic/Erxes, SurveyMonkey_
+
+### English 🇬🇧
+
+- contact info
+- (my) functionalities 
+- about me
+- tech
+
+
+## Contact info
+
+
+[![LinkedIn Luiz Quevedo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-quevedo/)
+
+[![Discord Luiz Quevedo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@qvedo/) 
+
+[![GitHub Luiz Quevedo (você está aqui!)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizquevedo) 
+
+ 
